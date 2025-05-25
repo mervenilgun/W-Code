@@ -1,0 +1,1 @@
+# Patika platformunda yaptığım çalışmalar
