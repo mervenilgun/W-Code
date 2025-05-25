@@ -1,1 +1,1 @@
-# Patika platformunda yaptığım çalışmalar
+# Patika platformunda yaptığım çalışmaları içermektedir
